@@ -13,6 +13,14 @@
 - [Git / GitHub / VS Code 連携環境構築](./setup-mac-git-github-vscode.md) 
     - (補足) [Gitの.gitディレクトリで気になったこと](./git/git-dot-git-behavior.md)
 
+### ラズパイをGitHub Codespacesの代わりに使う
+[ラズパイとDockerでSandbox環境を構築する](setup-raspi4-sandbox.md) 
+- (補足) [ラズパイの初期設定で行った方がいいもの](./raspi/raspi4-initial-settings.md)
+- (補足) [Dockerインストールに際しての事前検討事項](./docker/docker-install-method.md)
+- (補足) [AIと初学者が殴り合い：Dockerインストール検証の議論](./docker/docker_trust_model.md)
+- (補足) [AIに初学者が粘着：GPGキーとsigned-byをめぐる議論](./docker/gpg-signed-by.md)
+- (補足) [dockerグループ：よくわからないけど、何か違和感](./docker/docker-group-problem.md)
+
 - (今後順次追加予定)
 
 ## AIを活用した学習
