@@ -21,7 +21,19 @@
     - (補足) [AIに初学者が粘着：GPGキーとsigned-byをめぐる議論](./docker/gpg-signed-by.md)
     - (補足) [dockerグループ：よくわからないけど、何か違和感](./docker/docker-group-problem.md)
 
-- (今後順次追加予定)
+### 初めてクラウドに触れる、ブランチやCI/CDも学ぶ
+- [Azure初利用に向けた、AIを使ったプランニング](./azure/azure-first-use-planning.md)
+  - [フェーズ1：事前準備](./azure/azure-setup-phase1.md)
+    - 構成や配置の検討、ローカルのセッティング
+  - [フェーズ2：Azureリソースの作成](./azure/azure-setup-phase2.md)
+    - Azureアカウントの作成やAzureリソースの作成
+  - [フェーズ3：デプロイおよびStatic Web Appsの動作確認](./azure/azure-setup-phase3.md)
+    - 超シンプルなWebアプリ、ブランチ作成、GitHubのCI/CD
+  - フェーズ4：アプリケーションの実装 (未)
+  - フェーズ5：カスタムドメインを設定する (未)
+
+
+### (今後順次追加予定)
 
 ## AIを活用した学習
 
