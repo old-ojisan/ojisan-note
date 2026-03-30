@@ -21,7 +21,7 @@
     - (補足) [AIに初学者が粘着：GPGキーとsigned-byをめぐる議論](./docker/gpg-signed-by.md)
     - (補足) [dockerグループ：よくわからないけど、何か違和感](./docker/docker-group-problem.md)
 
-### 初めてクラウドに触れる、ブランチやCI/CDも学ぶ
+### 初めてクラウドに触れる Azure編 (ブランチやCI/CDも学ぶ)
 - [Azure初利用に向けた、AIを使ったプランニング](./azure/azure-first-use-planning.md)
   - [フェーズ1：事前準備](./azure/azure-setup-phase1.md)
     - 構成や配置の検討、ローカルのセッティング
