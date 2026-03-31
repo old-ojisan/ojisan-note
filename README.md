@@ -23,14 +23,16 @@
 
 ### 初めてクラウドに触れる Azure編 (ブランチやCI/CDも学ぶ)
 - [Azure初利用に向けた、AIを使ったプランニング](./azure/azure-first-use-planning.md)
-  - [フェーズ1：事前準備](./azure/azure-setup-phase1.md)
+  - フェーズ1：[事前準備](./azure/azure-setup-phase1.md)
     - 構成や配置の検討、ローカルのセッティング
-  - [フェーズ2：Azureリソースの作成](./azure/azure-setup-phase2.md)
+  - フェーズ2：[Azureリソースの作成](./azure/azure-setup-phase2.md)
     - Azureアカウントの作成やAzureリソースの作成
-  - [フェーズ3：デプロイおよびStatic Web Appsの動作確認](./azure/azure-setup-phase3.md)
+  - フェーズ3：[デプロイおよびStatic Web Appsの動作確認](./azure/azure-setup-phase3.md)
     - 超シンプルなWebアプリ、ブランチ作成、GitHubのCI/CD
-  - フェーズ4：アプリケーションの実装 (未)
-  - フェーズ5：カスタムドメインを設定する (未)
+  - フェーズ4：[アプリケーションの実装](./azure/azure-setup-phase4.md)
+    - Blobのデータを読み書きする機能を作成
+  - フェーズ5：[カスタムドメインを設定する](./azure/azure-setup-phase5.md)
+    - 手持ちのドメイン名でアクセスできるようにする
 
 
 ### (今後順次追加予定)
