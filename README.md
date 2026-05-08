@@ -37,6 +37,12 @@
 
 ### (今後順次追加予定)
 
+## 初学者がAIで学んだのち、サービスを開発し公開
+
+- [ブクマッター](https://bukumatter.com/)
+  - AIに読ませる、共有オンラインブックマークのサービス
+  - [ブクマッターの開発雑記](https://github.com/old-ojisan/bukumatter-docs/blob/main/docs/bukumatter-dev-notes.md)
+
 ## AIを活用した学習
 
 大変役に立っています。ChatGPTとClaudeの2つを、お互いに回答を検証させながら使っています。  
